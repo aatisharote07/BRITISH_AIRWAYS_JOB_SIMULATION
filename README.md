@@ -8,4 +8,4 @@ The Analyzing Customer Reviews through Text Analysis British Airways Virtual Exp
 - Predicting customer buying behaviour
 : Build a predictive model to understand factors that influence buying behaviour
 
-### for more info click <a href="(https://www.theforage.com/simulations/british-airways/data-science-yqoz)">Here</a>
+### for more info click <a href="[https://www.theforage.com/simulations/british-airways/data-science-yqoz]">Here</a>
